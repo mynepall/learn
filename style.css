@@ -1,1 +1,24 @@
 
+*{
+    color: brown;
+
+    background-color:#efecce;
+    font-style: italic;
+}
+img {
+
+    width: 75%;
+}
+
+h1{
+
+    color: black ; 
+    text-align: center;
+    font-style: italic;
+    font: bold;
+    text-decoration-style: solid;
+}
+p {
+
+    font-size: 120%
+}
